@@ -16,7 +16,7 @@ Pour l'installer, il suffit de télécharger le fichier "Adar-win.zip" si vous t
 téléchargé, il suffit de décompresser le fichier et le tour est joué! Il n'y a pas d'installation en soi. Télécharger les fichiers est suffisant.
 
 ## Utilisation
-Pour démarrer l'application, il suffit de cliquer sur l'icône en forme de robot dans le dossier. Pour le reste, il suffit de suivre le document "Utilisation d'Adar.pdf" que l'on retrouve ici. 
+Pour démarrer l'application, ouvrir le dossier décompressé. Il suffit ensuite de cliquer sur le fichier de l'application appelé "Adar" et dont l'icône est en forme de robot. L'application va démarrer. Pour le reste, il suffit de suivre le document "Utilisation d'Adar.pdf" que l'on retrouve ici. 
 
 
 ## Programmation de la carte Arduino
